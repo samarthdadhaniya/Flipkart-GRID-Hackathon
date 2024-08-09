@@ -1,4 +1,6 @@
-# Technical Quiz Questions
+# FlipKart-GRID (Hackathon) 
+
+### Technical Quiz Questions
 
 ### 1. ARKit can create a 3D map of the environment by using which of the following hardware combinations?
 - a. Accelerometer, gyroscope, and camera
